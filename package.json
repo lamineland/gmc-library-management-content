@@ -1,0 +1,21 @@
+{
+  "name": "library-managment-system",
+  "version": "1.0.0",
+  "description": "Modular Library Management System demonstrating Factory, Strategy and Observer patterns with ES modules and dependency injection.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node examples/demo.js",
+    "test": "node --test test/"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "library",
+    "es-modules",
+    "design-patterns",
+    "dependency-injection"
+  ],
+  "license": "MIT"
+}
